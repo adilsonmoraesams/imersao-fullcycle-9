@@ -17,4 +17,4 @@ services:
       - MYSQL_DATABASE=mydb
       - MYSQL_ROOT_PASSWORD=root
     volumes:
-      - ./dbdata:/va/lib/mysql  
+      - ./dbdata:/var/lib/mysql  

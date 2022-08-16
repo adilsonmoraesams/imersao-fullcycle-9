@@ -12,3 +12,4 @@ WORKDIR /home/node/app
 
 CMD [ "/home/node/app/start.sh"]
 
+    
